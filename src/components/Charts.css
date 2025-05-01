@@ -1,7 +1,7 @@
 /* Charts component styling */
 .charts-component {
   width: 100%;
-  min-width: 600px;
+  min-width: 280px;
   height: 600px;
   background-color: #1a1a1a;
   border-radius: 8px;
